@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.cavitejobs" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>CaviteJobs</name>
+    <description>
+       CAVITEJOBS.COM – Trabaho sa Cavite is an interactive recruitment network providing Online Job Search Engine specialized in providing opportunities in Cavite. Cavitejobs.com services include Online Job Posting, Job Ads, Recruitment Solutions, and Online Job Advertising.
+
+CAVITEJOBS.COM also caters one of a kind accurate client-specific service and attention to all details of your employment necessities in an electronic form in the most advance and convenient manner. Hence, CaviteJobs is competent and fully determined to enjoy its reputation as the 1st Online Job Search Engine in Cavite.
+    </description>
+    <author email="admin@cavitejobs.com" href="http://cavitejobs.com/">
+        admin@cavitejobs.com
+    </author>
+
+    <content src="index.html" />
+    
+    <!-- Android  -->
+    <icon src="res/icons/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="res/icons/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="res/icons/android/icon-72-hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="res/icons/android/icon-96-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+	<icon src="res/icons/android/icon-144-xxhdpi.png" gap:platform="android" gap:density="xxhdpi" />
+
+	<!-- iPhone / iPod Touch  -->
+	<icon src="res/icons/ios/icon-60.png" gap:platform="ios" width="60" height="60" />
+	<icon src="res/icons/ios/icon-60-2x.png" gap:platform="ios" width="120" height="120" />
+
+	<!-- iPad -->
+	<icon src="res/icons/ios/icon-76.png" gap:platform="ios" width="76" height="76" />
+	<icon src="res/icons/ios/icon-76-2x.png" gap:platform="ios" width="152" height="152" />
+
+	<!-- Settings Icon -->
+	<icon src="res/icons/ios/icon-29.png" gap:platform="ios" width="29" height="29" />
+	<icon src="res/icons/ios/icon-29-2x.png" gap:platform="ios" width="58" height="58" />
+
+	<!-- Spotlight Icon -->
+	<icon src="res/icons/ios/icon-40.png" gap:platform="ios" width="40" height="40" />
+	<icon src="res/icons/ios/icon-40-2x.png" gap:platform="ios" width="80" height="80" />
+    
+    <access origin="*" subdomains="true" />
+</widget>
